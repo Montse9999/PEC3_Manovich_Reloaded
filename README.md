@@ -42,16 +42,33 @@ En conclusión, Zoom es un ejemplo destacado de hibridación de medios en la era
 
 
 
+## Re-descubriendo la hibridacion: Caso 2 - Spotify
 
-## Re-descubriendo la hibridacion: Caso 2
+![young-woman-holding-tablet-with-spotify-app](https://github.com/user-attachments/assets/d7a677c0-5103-4b47-bb2c-90de39b95d59)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La hibridación de medios es un concepto clave en la obra de Lev Manovich, quien argumenta que la digitalización y el software han transformado profundamente la cultura visual y mediática desde finales de los años 90. Este fenómeno se manifiesta en la combinación de diferentes formas de medios en una sola plataforma, creando nuevas experiencias y formas de interacción. Spotify, como plataforma de streaming de música, es un ejemplo perfecto de cómo la hibridación se aplica en el ámbito de la música y el entretenimiento.
+
+Spotify no solo ofrece música, sino que también integra podcasts, videos y contenido interactivo, creando una experiencia multimedia rica y diversa. Según Manovich, la hibridación implica la mezcla de diferentes medios que anteriormente eran separados, como la música, la fotografía, la animación y la tipografía. En Spotify, esta mezcla se observa en la forma en que los usuarios pueden acceder a una variedad de contenidos en una sola aplicación y desde cualquier dispositivo, y cómo estos contenidos se presentan de manera integrada.
+
+Desde su fundación en 2006 por Daniel Ek y Martin Lorentzon en Suecia, y su lanzamiento en 2008, Spotify ha revolucionado el mundo de la música. Actualmente, ha alcanzado un total de 678 millones de suscriptores y 238 millones de usuarios de pago. ¿Quién iba a imaginar que con los años tendríamos a nuestra disposición toda la música en un solo dispositivo sin tener que tenerla aparte, ya sea en un casete, vinilo, CD o un reproductor de música tipo iPod? Con la llegada de Spotify, se transformó la forma en que consumimos música: ahora puedes escuchar tus canciones favoritas, un álbum completo de cualquier artista o crear listas de canciones favoritas, todo esto manejándolo de una manera rápida y sencilla.
+
+Un ejemplo claro de hibridación en Spotify es la inclusión de podcasts junto con la música. Los podcasts en Spotify no solo son archivos de audio, sino que a menudo incluyen elementos visuales como imágenes de portada, transcripciones y enlaces interactivos. Esto crea una experiencia multimedia que va más allá de escuchar. Además, Spotify utiliza algoritmos avanzados para recomendar contenido basado en las preferencias del usuario, combinando datos de escucha de música y podcasts para ofrecer una experiencia personalizada.
+
+Spotify también ha hibridado a todos los dispositivos. Si te descargas la app, lo puedes utilizar en móviles, tabletas, ordenadores, Alexa, en el coche, y también puedes acceder desde cualquier navegador. Su interfaz y la manera en la que te relacionas con el servicio también reflejan cómo ha cambiado la manera de escuchar y consumir música, pareciendo una biblioteca virtual donde puedes encontrar cualquier canción con solo utilizar el buscador.
+
+Otro aspecto importante de la hibridación en Spotify es la creación de listas de reproducción colaborativas. Los usuarios pueden crear y compartir listas de reproducción que incluyen música, podcasts y otros contenidos, fomentando una interacción social y colaborativa. Esta capacidad de mezclar diferentes tipos de contenido en una sola lista de reproducción es un ejemplo de cómo la hibridación permite nuevas formas de expresión y conexión entre los usuarios.
+
+En Spotify también puedes ver en algunos casos el video musical a la vez que escuchas música, e incluso leer la letra de la canción. Esta integración de diferentes formas de medios en una sola plataforma es una característica esencial de la cultura visual contemporánea según Manovich.
+
+En conclusión, la hibridación en Spotify según Lev Manovich se manifiesta en la integración de diferentes formas de medios y tecnologías para crear una experiencia multimedia rica y envolvente. Spotify no solo ofrece música, sino que también combina podcasts, videos y contenido interactivo, permitiendo a los usuarios explorar y descubrir contenido de manera más completa y personalizada. Esta hibridación refleja la transformación de la cultura visual y mediática en la era digital, donde la mezcla de diferentes formas de medios es la norma y no la excepción.
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios". Recurso UOC.
+* https://www.zoom.com/en/resources/uk-hybrid-work-models-report/
+* https://support.spotify.com/es/article/what-is-spotify/
 
 
 ----
