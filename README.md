@@ -69,6 +69,7 @@ En conclusión, la hibridación en Spotify según Lev Manovich se manifiesta en 
 * Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios". Recurso UOC.
 * https://www.zoom.com/en/resources/uk-hybrid-work-models-report/
 * https://support.spotify.com/es/article/what-is-spotify/
+* www.freepik.com
 
 
 ----
